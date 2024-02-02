@@ -4,7 +4,10 @@ namespace App\Service;
 
         Created by Rafael Da Silva
         01/02/2024
-        TODO
+        TODO : 
+        verificaçao de caracteres no header, attachementPath, verificar emails from e to
+        adicionar funçao para setar lista de ficheiros
+        adicionar funçao para adicionar varios ficheiros
 
 
 */
